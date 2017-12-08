@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="foodName">Nutrition</string>
+    <string name="foodItem"> </string>
+    <string name="food">Add Food</string>
+    <string name="text1"> </string>
+    <string name="text2"> </string>
+    <string name="progressB"> </string>
+
+</resources>
